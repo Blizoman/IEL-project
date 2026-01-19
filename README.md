@@ -10,6 +10,7 @@ Riešenie semestrálneho projektu z predmetu IEL (Elektronika pre informačné t
 - **Príklad 5** – Prechodové javy a diferenciálne rovnice.
 
 Projekt bol vypracovaný samostatne a obsahuje kompletný postup výpočtov v obecnom tvare, číselné dosadenie a záverečné zhrnutie výsledkov.
+Príklad číslo 5 má chybné riešenie.
 
 ## Hodnotenie
 - Získané body: **10 / 12**
